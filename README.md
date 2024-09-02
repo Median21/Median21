@@ -7,6 +7,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Median21&layout=donut)](https://github.com/Median21/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Median21&hide_progress=true)
+
 
 <!--**Ansly21/Ansly21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
