@@ -1,8 +1,7 @@
 <h1 align="center">Hello 👋</h1>
 
-<a align="center" href="https://github.com/Ansly21">My old profile </a>
-<h3 align="center"><a href="https://github.com/Ansly21" target="_blank" align="center">My Previous GitHub Profile</a></h3>
-<h3 align="center"><a href="https://www.frontendmentor.io/profile/Median21" target="_blank" align="center">My Frontend Mentor Profile</a></h3>
+<h3 align="center"><a href="https://github.com/Ansly21" target="_blank" align="center">Previous GitHub Profile</a></h3>
+<h3 align="center"><a href="https://www.frontendmentor.io/profile/Median21" target="_blank" align="center">Frontend Mentor Profile</a></h3>
 
   <h3 align="center">Languages and Tools:</h3>
 <p align="center">
